@@ -35,7 +35,7 @@ $response = json_decode(curl_exec($ch));
 
 
 
-?>
+
 
 
 

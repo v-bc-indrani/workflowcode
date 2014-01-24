@@ -21,7 +21,6 @@ class altitudes
  }
 $address1='Alameda Place Rolleston new zealand';
 $addressDetails= new altitudes($address1);
-echo "calling";
 echo  "alti1 ". $addressDetails->altitude ."\n";
 echo "alti2 ". $addressDetails->altitude1 ."\n";
 ?>

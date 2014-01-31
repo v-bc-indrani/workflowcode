@@ -1,0 +1,16 @@
+{
+    "options": {
+        "test_mode": "yes",
+        "requester_id": "555555",
+        "request_id": "rtbig",
+        "account_id": "2500901",
+        "pass_phrase": "testphrase"
+    },
+    "username": "",
+    "password": "",
+    "company_name": "bigC",
+    "customer_name": "Reddy",
+    "address": "11305 Four Points Drive Building II, Third Floor.",
+    "phone": "+1-512-865-4570",
+    "email": "sriram.reddy@bigcommerce.com"
+}

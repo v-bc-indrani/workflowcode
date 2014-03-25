@@ -1,6 +1,6 @@
 {
     "options": {
-        "test_mode": "yes",
+        "test_mode": true,
         "requester_id": "555555",
         "request_id": "rtbig",
         "account_id": "2500901",
